@@ -1,0 +1,38 @@
+[
+  {
+    "Question": "How do we say 'sariq' in English?",
+    "A": "Yellow",
+    "B": "Red",
+    "C": "White",
+    "D": "None",
+    "CorrectAnswer": "A"
+  }, {
+  "Question": "What do you call a place where you buy and eat food",
+  "A": "Library",
+  "B": "Restaurant",
+  "C": "Park",
+  "D": "School",
+  "CorrectAnswer": "B"
+  },{
+    "Question": "What is the color of the sky during the day?",
+    "A": "Blue",
+    "B": "Green",
+    "C": "Red",
+    "D": "Yellow",
+    "CorrectAnswer": "A"
+  },{
+    "Question": "What do we use to write on paper?",
+    "A": "Brush",
+    "B": "Pencil",
+    "C": "Spoon",
+    "D": "Hammer",
+    "CorrectAnswer": "B"
+  },{
+    "Question": "What is the past tense of \"go\"",
+    "A": "Going",
+    "B": "Gone",
+    "C": "Goed",
+    "D": "Went",
+    "CorrectAnswer": "D"
+  }
+]
