@@ -14,7 +14,7 @@ namespace DTM
     {
         static async Task Main(string[] args)
         {
-            const string token = "6077885052:AAFJays-peGn1YKsD8W9vkORfLN569YsiO4"; // Gotta delete it
+            const string token = "6077885052:AAFJays-peGn1YKsD8W9vkORfLN569YsiO4"; // Gotta hide it
             
             // TelegramBotHandler.TestNumber = 1; 
             // TelegramBotHandler handler = new TelegramBotHandler(token);
